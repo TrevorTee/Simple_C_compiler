@@ -1,0 +1,7 @@
+G{'i': None, '*': None, '#': 'e', '/': None, '-': 'ATG', ')': 'e', '+': 'ATG', '(': None}
+T{'i': 'FH', '*': None, '#': None, '/': None, '-': None, ')': None, '+': None, '(': 'FH'}
+F{'i': 'i', '*': None, '#': None, '/': None, '-': None, ')': None, '+': None, '(': '(E)'}
+E{'i': 'TG', '*': None, '#': None, '/': None, '-': None, ')': None, '+': None, '(': 'TG'}
+M{'i': None, '*': '*', '#': None, '/': '/', '-': None, ')': None, '+': None, '(': None}
+A{'i': None, '*': None, '#': None, '/': None, '-': '-', ')': None, '+': '+', '(': None}
+H{'i': None, '*': 'MFH', '#': 'e', '/': 'MFH', '-': 'e', ')': 'e', '+': 'e', '(': None}

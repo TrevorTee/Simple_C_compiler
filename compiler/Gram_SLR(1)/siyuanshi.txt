@@ -1,0 +1,4 @@
++ i i temp0
+* temp0 i temp1
+- temp1 i temp2
+= temp2 _ i

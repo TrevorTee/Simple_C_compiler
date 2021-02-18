@@ -1,0 +1,10 @@
+E→TG
+G→ATG
+G→e
+T→FH
+H→MFH
+H→e
+F→(E)
+F→i
+A→+|-
+M→*|/
